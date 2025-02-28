@@ -1,7 +1,7 @@
 # DAI-101-Assignment-1
 
 ## *Project Title:*  
-*DAI Assignment 1 - used Dataset Analysis*  
+*DAI Assignment 1 - used car Dataset Analysis*  
 
 ## *Author:*  
 *Amit meena - 23112014*  
